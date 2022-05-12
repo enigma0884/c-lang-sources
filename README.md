@@ -3,13 +3,11 @@
 ## What is C?
 <p>
 	C is a statically typed procedural programming language. It is the mother of all programming languages and is responsible for the existence of major technologies that we know today like the Windows, Linux and Mac operating system kernels, databases like MySQL and the python interpreter.
-
-It was created by [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) in the year 1970 at Bell Labs while working on the UNIX operating system. It directly compiles to machine code and the executable **is platform dependent**.
 </p>
 
 ## What is the purpose of this repository?
 <p>
-	This repo contains a quick reference to all the programs which were done in the classroom lectures and in the lab so that it would be easier for students to directly execute them on their own machines and play around with the code.
+	This repo contains a quick reference to all the programs (module wise) which were done in the classroom lectures and in the lab so that it would be easier for students to directly execute them on their own machines and play around with the code.
 </p>
 
 ## How to access these files to execute on your own machine?
