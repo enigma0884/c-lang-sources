@@ -1,6 +1,6 @@
 /*
     Authored by Sohan Shashikumar
-    CSE Dept, DSCE.
+    CSE student @ DSCE
 */
 
 // the #include keyword is used at pre processing to include modules which our program depends on

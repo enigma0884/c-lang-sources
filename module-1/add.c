@@ -1,6 +1,6 @@
 /*
     Authored by Sohan Shashikumar
-    CSE Dept, DSCE.
+    CSE student @ DSCE
 */
 
 #include <stdio.h>
